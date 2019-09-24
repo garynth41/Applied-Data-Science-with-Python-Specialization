@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Applied Data Science with Python Specialization, University of Michigan
+
+#### Gain new insights into your data . Learn to apply data science methods and techniques, and acquire analysis skills.
 
 You can use the [editor on GitHub](https://github.com/garynth41/Univ-of-Michigan-Applied-Data-Science-w.-Python-Specialization/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
