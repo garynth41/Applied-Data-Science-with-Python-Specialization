@@ -14,13 +14,13 @@ The 5 courses in this University of Michigan specialization introduce learners t
 5. Applied Social Network Analysis in Python
 
 
-WHAT I WILL LEARNED:
+WHAT I LEARNED:
 1. Analyze the connectivity of a social network
 2. Conduct an inferential statistical analysis
 3. Discern whether a data visualization is good or bad
 4. Enhance a data analysis with applied machine learning
 
-SKILLS I WILL GAINED:
+SKILLS GAINED:
 - Text Mining
 - Python Programming
 - Pandas
