@@ -20,7 +20,7 @@ WHAT I WILL LEARNED:
 3. Discern whether a data visualization is good or bad
 4. Enhance a data analysis with applied machine learning
 
-SKILLS YOU WILL GAIN:
+SKILLS I WILL GAINED:
 - Text Mining
 - Python Programming
 - Pandas
